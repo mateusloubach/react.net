@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "+CSXOjq4sNzAEOtAxt7+ueXRAecq2VsdLA1v2NVd86k=",
+  "Source": "test.netcore",
+  "BasePath": "_content/test.netcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "test.netcore\\wwwroot",
+      "Source": "test.netcore",
+      "ContentRoot": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\",
+      "BasePath": "_content/test.netcore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\action-method.png",
+      "SourceId": "test.netcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\",
+      "BasePath": "_content/test.netcore",
+      "RelativePath": "action-method.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\action-method.png"
+    },
+    {
+      "Identity": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\dotnet cli Cheat Sheet.pdf",
+      "SourceId": "test.netcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\",
+      "BasePath": "_content/test.netcore",
+      "RelativePath": "dotnet cli Cheat Sheet.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dotnet cli Cheat Sheet.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\HTML4 - Cheat Sheet.pdf",
+      "SourceId": "test.netcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mateus.loubach\\source\\repos\\testreact\\test.netcore\\wwwroot\\",
+      "BasePath": "_content/test.netcore",
+      "RelativePath": "HTML4 - Cheat Sheet.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HTML4 - Cheat Sheet.pdf"
+    }
+  ]
+}
